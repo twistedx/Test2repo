@@ -1,0 +1,22 @@
+    css
+	body {
+	margin: 0;
+	padding: 0;
+	}
+
+body {
+  background: #efeee7;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color:#333333;  
+}
+
+header {
+
+        background: #333333
+
+}
+#h1 {
+    color: #eee;
+    font-size: 28px;
+    
+}
